@@ -1,0 +1,36 @@
+# python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environments
+venv/
+env/
+.venv/
+
+# jupyter notebook files
+.ipynb_checkpoints/
+
+# data files (Kaggle + processed)
+data/raw/
+data/processed/
+
+# trained ML models
+models/*.joblib
+
+# environment variables / secrets
+.env
+
+# logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
