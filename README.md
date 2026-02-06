@@ -68,6 +68,10 @@ skillbridge-ai/
 └── README.md
 ```
 
+## Dataset
+
+This project uses a synthetic employee dataset for learning and demonstration purposes. The dataset is not included in this repository due to size, privacy, and reproducibility reasons.
+The data generation approach is based on examples from Kaggle. Only the data processing, labeling, and model training code are provided. Anyone cloning this repository can recreate the dataset using the included scripts.
 
 ## Data Pipeline
 
