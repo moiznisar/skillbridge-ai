@@ -16,9 +16,6 @@ env/
 data/raw/
 data/processed/
 
-# trained ML models
-models/*.joblib
-
 # environment variables / secrets
 .env
 
